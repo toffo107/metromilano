@@ -12,3 +12,4 @@
 - Montenapoleone
 - Duomo
 - San Babila
+- Loreto
