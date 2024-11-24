@@ -10,3 +10,4 @@
 - Repubblica
 - Turati
 - Montenapoleone
+- Duomo
