@@ -17,3 +17,4 @@
 - Porta Venezia
 - Lima
 - Loreto
+- Loreto
