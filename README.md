@@ -16,3 +16,4 @@
 - Palestro
 - Porta Venezia
 - Lima
+- Loreto
