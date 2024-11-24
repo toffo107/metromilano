@@ -13,3 +13,4 @@
 - Duomo
 - San Babila
 - Loreto
+- Palestro
