@@ -5,3 +5,4 @@
 - Dergano
 - Macciachini
 - Zara
+- Sondrio
