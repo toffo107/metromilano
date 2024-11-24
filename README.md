@@ -4,3 +4,4 @@
 - Affori Centro
 - Dergano
 - Macciachini
+- Zara
